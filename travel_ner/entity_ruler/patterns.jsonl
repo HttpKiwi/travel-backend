@@ -1,0 +1,187 @@
+{"label":"EVENT","pattern":"Carnaval de Negros y Blancos"}
+{"label":"EVENT","pattern":"Festival Internacional de Musica"}
+{"label":"EVENT","pattern":"Feria de Manizales"}
+{"label":"EVENT","pattern":"Hay Festival"}
+{"label":"EVENT","pattern":"Fiesta de la Candelaria"}
+{"label":"EVENT","pattern":"Carnaval de Fuego"}
+{"label":"EVENT","pattern":"Carnaval de Barranquilla"}
+{"label":"EVENT","pattern":"Festival Internacional de Cine"}
+{"label":"EVENT","pattern":"Festival Nacional de la Musica Colombiana"}
+{"label":"EVENT","pattern":"Festival de la Musica Religiosa"}
+{"label":"EVENT","pattern":"Semana Santa"}
+{"label":"EVENT","pattern":"Feria Internacional del Libro"}
+{"label":"EVENT","pattern":"Festival de la Leyenda Vallenata"}
+{"label":"EVENT","pattern":"Festival de la Cultura Wayuu"}
+{"label":"EVENT","pattern":"Festival Iberoamericano del Teatro"}
+{"label":"EVENT","pattern":"Festival Folcl\u00f3rico y Reinado Nacional del Bambuco"}
+{"label":"EVENT","pattern":"Torneo Internacional del Joropo"}
+{"label":"EVENT","pattern":"Fiestas del Mar"}
+{"label":"EVENT","pattern":"Feria de las Flores"}
+{"label":"EVENT","pattern":"Festival del Verano"}
+{"label":"EVENT","pattern":"Festival Cartagena Pride"}
+{"label":"EVENT","pattern":"Festival Petronio Alvarez"}
+{"label":"EVENT","pattern":"Festival de Jazz al Parque"}
+{"label":"EVENT","pattern":"Festival Internacional del Teatro"}
+{"label":"EVENT","pattern":"Festival del Cine"}
+{"label":"EVENT","pattern":"Fiestas de la Independencia"}
+{"label":"EVENT","pattern":"Feria de Cali"}
+{"label":"PEOPLE","pattern":"pareja"}
+{"label":"PEOPLE","pattern":"papa"}
+{"label":"PEOPLE","pattern":"mama"}
+{"label":"PEOPLE","pattern":"familia"}
+{"label":"PEOPLE","pattern":"esposo"}
+{"label":"PEOPLE","pattern":"esposa"}
+{"label":"PEOPLE","pattern":"novio"}
+{"label":"PEOPLE","pattern":"novia"}
+{"label":"PEOPLE","pattern":"hermano"}
+{"label":"PEOPLE","pattern":"hermanos"}
+{"label":"PEOPLE","pattern":"tio"}
+{"label":"PEOPLE","pattern":"hermana"}
+{"label":"PEOPLE","pattern":"hermanas"}
+{"label":"PEOPLE","pattern":"tia"}
+{"label":"PEOPLE","pattern":"tias"}
+{"label":"PEOPLE","pattern":"tios"}
+{"label":"PEOPLE","pattern":"prima"}
+{"label":"PEOPLE","pattern":"primas"}
+{"label":"PEOPLE","pattern":"primos"}
+{"label":"PEOPLE","pattern":"padres"}
+{"label":"PEOPLE","pattern":"madres"}
+{"label":"PEOPLE","pattern":"amigos"}
+{"label":"PEOPLE","pattern":"amigas"}
+{"label":"PEOPLE","pattern":"solo"}
+{"label":"PEOPLE","pattern":"sola"}
+{"label":"PEOPLE","pattern":"nino"}
+{"label":"PEOPLE","pattern":"ninos"}
+{"label":"PEOPLE","pattern":"adulto"}
+{"label":"PEOPLE","pattern":"adultos"}
+{"label":"PLACE","pattern":"Armenia"}
+{"label":"PLACE","pattern":"Barranquilla"}
+{"label":"PLACE","pattern":"Bogota"}
+{"label":"PLACE","pattern":"Bucaramanga"}
+{"label":"PLACE","pattern":"Cali"}
+{"label":"PLACE","pattern":"Cucuta"}
+{"label":"PLACE","pattern":"Cartagena"}
+{"label":"PLACE","pattern":"Leticia"}
+{"label":"PLACE","pattern":"Medellin"}
+{"label":"PLACE","pattern":"Pereira"}
+{"label":"PLACE","pattern":"San Andres"}
+{"label":"PLACE","pattern":"Santa Marta"}
+{"label":"PLACE","pattern":"Moneteria"}
+{"label":"PLACE","pattern":"Rioacha"}
+{"label":"PLACE","pattern":"Apartado"}
+{"label":"PLACE","pattern":"Arauca"}
+{"label":"PLACE","pattern":"Bahia Solano"}
+{"label":"PLACE","pattern":"Barrancabermeja"}
+{"label":"PLACE","pattern":"Caucasia"}
+{"label":"PLACE","pattern":"Florencia"}
+{"label":"PLACE","pattern":"Guapi"}
+{"label":"PLACE","pattern":"Ibague"}
+{"label":"PLACE","pattern":"Ipiales"}
+{"label":"PLACE","pattern":"La Macarena"}
+{"label":"PLACE","pattern":"Manizales"}
+{"label":"PLACE","pattern":"Mocoa"}
+{"label":"PLACE","pattern":"Villagarzon"}
+{"label":"PLACE","pattern":"Maicao"}
+{"label":"PLACE","pattern":"Mitu"}
+{"label":"PLACE","pattern":"Neiva"}
+{"label":"PLACE","pattern":"Nuqui"}
+{"label":"PLACE","pattern":"Pasto"}
+{"label":"PLACE","pattern":"Pitalito"}
+{"label":"PLACE","pattern":"Popayan"}
+{"label":"PLACE","pattern":"Providencia"}
+{"label":"PLACE","pattern":"Puerto Asis"}
+{"label":"PLACE","pattern":"Puerto Gaitan"}
+{"label":"PLACE","pattern":"Puerto Inirida"}
+{"label":"PLACE","pattern":"Puerto Leguizamo"}
+{"label":"PLACE","pattern":"Puerto Carreno"}
+{"label":"PLACE","pattern":"Quibdo"}
+{"label":"PLACE","pattern":"San Jose del Guaviare"}
+{"label":"PLACE","pattern":"Saravena"}
+{"label":"PLACE","pattern":"Sincelejo"}
+{"label":"PLACE","pattern":"Tumaco"}
+{"label":"PLACE","pattern":"Uribia"}
+{"label":"PLACE","pattern":"Valledupar"}
+{"label":"PLACE","pattern":"Villavicencio"}
+{"label":"PLACE","pattern":"Yopal"}
+{"label":"PLACE","pattern":"Capurgana"}
+{"label":"PLACE","pattern":"Tolu"}
+{"label":"MODIFIER","pattern":"menos"}
+{"label":"MODIFIER","pattern":"exceptuando"}
+{"label":"MODIFIER","pattern":"quitando"}
+{"label":"MODIFIER","pattern":"sin contar"}
+{"label":"AIRLINE","pattern":"Avianca"}
+{"label":"AIRLINE","pattern":"LATAM Airlines"}
+{"label":"AIRLINE","pattern":"Viva Air"}
+{"label":"AIRLINE","pattern":"Satena"}
+{"label":"AIRLINE","pattern":"EasyFly"}
+{"label":"AIRLINE","pattern":"Copa"}
+{"label":"AIRLINE","pattern":"Ultra Air"}
+{"label":"AIRLINE","pattern":"Wingo"}
+{"label":"MONTH","pattern":"Enero"}
+{"label":"MONTH","pattern":"Febrero"}
+{"label":"MONTH","pattern":"Marzo"}
+{"label":"MONTH","pattern":"Abril"}
+{"label":"MONTH","pattern":"Mayo"}
+{"label":"MONTH","pattern":"Junio"}
+{"label":"MONTH","pattern":"Julio"}
+{"label":"MONTH","pattern":"Agosto"}
+{"label":"MONTH","pattern":"Septiembre"}
+{"label":"MONTH","pattern":"Octubre"}
+{"label":"MONTH","pattern":"Noviembre"}
+{"label":"MONTH","pattern":"Diciembre"}
+{"label":"AMMENITY","pattern":"cocina"}
+{"label":"AMMENITY","pattern":"Wifi"}
+{"label":"AMMENITY","pattern":"Aire acondicionado"}
+{"label":"AMMENITY","pattern":"Piscina"}
+{"label":"AMMENITY","pattern":"Cocina"}
+{"label":"AMMENITY","pattern":"Parqueadero gratis"}
+{"label":"AMMENITY","pattern":"Fumadores permitidos"}
+{"label":"AMMENITY","pattern":"Mascotas permitidas"}
+{"label":"AMMENITY","pattern":"Gimnasio"}
+{"label":"AMMENITY","pattern":"Desayuno"}
+{"label":"AMMENITY","pattern":"Elevador"}
+{"label":"AMMENITY","pattern":"Jacuzzi"}
+{"label":"AMMENITY","pattern":"Fogata"}
+{"label":"AMMENITY","pattern":"Calefaccion"}
+{"label":"AMMENITY","pattern":"Lavadora"}
+{"label":"AMMENITY","pattern":"Secadora"}
+{"label":"AMMENITY","pattern":"Alarma de humo"}
+{"label":"AMMENITY","pattern":"Alarma de monoxido de carbono"}
+{"label":"AMMENITY","pattern":"Champu"}
+{"label":"AMMENITY","pattern":"Ganchos de ropa"}
+{"label":"AMMENITY","pattern":"Secadora de pelo"}
+{"label":"AMMENITY","pattern":"Plancha de ropa"}
+{"label":"AMMENITY","pattern":"Lugar para laptops"}
+{"label":"AMMENITY","pattern":"Autochequeo"}
+{"label":"AMMENITY","pattern":"TV"}
+{"label":"AMMENITY","pattern":"Silla alta"}
+{"label":"AMMENITY","pattern":"Bano privado"}
+{"label":"AMMENITY","pattern":"Pasillos amplios"}
+{"label":"AMMENITY","pattern":"Sin escaleras para entrar"}
+{"label":"AMMENITY","pattern":"Entrada amplia para huespedes"}
+{"label":"AMMENITY","pattern":"Entrada sin escalones"}
+{"label":"AMMENITY","pattern":"Camino iluminado para entrar"}
+{"label":"AMMENITY","pattern":"Parqueadero para discapacitados"}
+{"label":"AMMENITY","pattern":"No stairs or steps to enter"}
+{"label":"AMMENITY","pattern":"Entrada amplia"}
+{"label":"AMMENITY","pattern":"Espacio extra alrededor de la cama"}
+{"label":"AMMENITY","pattern":"Cama de altura accesible"}
+{"label":"AMMENITY","pattern":"No stairs or steps to enter"}
+{"label":"AMMENITY","pattern":"Puerta amplia para el bano"}
+{"label":"AMMENITY","pattern":"Banera con silla de bano"}
+{"label":"AMMENITY","pattern":"Inodoro de altura accesible"}
+{"label":"AMMENITY","pattern":"No stairs or steps to enter"}
+{"label":"AMMENITY","pattern":"Entrada amplia"}
+{"label":"AMMENITY","pattern":"Cabezal de ducha de mano"}
+{"label":"AMMENITY","pattern":"Cuna"}
+{"label":"AMMENITY","pattern":"Cama perfiladora el\u00e9ctrica"}
+{"label":"AMMENITY","pattern":"Polipasto m\u00f3vil"}
+{"label":"AMMENITY","pattern":"Piscina con polipasto"}
+{"label":"AMMENITY","pattern":"Polipasto de techo"}
+{"label":"AMMENITY","pattern":"Pasamanos para ducha"}
+{"label":"AMMENITY","pattern":"Pasamanos para inodoro"}
+{"label":"AMMENITY","pattern":"Ducha sin escalones"}
+{"label":"AMMENITY","pattern":"Silla de ducha"}
+{"label":"AMMENITY","pattern":"Piano"}
+{"label":"AMMENITY","pattern":"Espacio extra alrededor del inodoro"}
+{"label":"AMMENITY","pattern":"Espacio extra alrededor de la ducha"}

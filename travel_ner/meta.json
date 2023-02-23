@@ -1,0 +1,39 @@
+{
+  "lang":"es",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.4.4,<3.5.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"Unknown",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "entity_ruler":[
+      "AIRLINE",
+      "AMMENITY",
+      "EVENT",
+      "MODIFIER",
+      "MONTH",
+      "PEOPLE",
+      "PLACE"
+    ]
+  },
+  "pipeline":[
+    "entity_ruler"
+  ],
+  "components":[
+    "entity_ruler"
+  ],
+  "disabled":[
+
+  ]
+}
